@@ -1,0 +1,26 @@
+{
+  "name": "curso-node-basico-2018",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TAmyG/bdg-node-basico-2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TAmyG/bdg-node-basico-2018/issues"
+  },
+  "homepage": "https://github.com/TAmyG/bdg-node-basico-2018#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "hapi": "^17.7.0",
+    "jsonwebtoken": "^8.4.0",
+    "mongoose": "^5.3.12"
+  }
+}
